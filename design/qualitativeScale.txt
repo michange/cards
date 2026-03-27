@@ -1,0 +1,41 @@
+Readability Scale — 5 Categories
+
+  5 — Excellent (Immediately clear)
+
+  - "Anyone landing on this card knows exactly what the project is about."
+  - "The title is self-explanatory — I don't even need to read the description to get the gist."
+  - "The description adds concrete detail: what they're doing, for whom, and why it matters."
+  - "This reads like it was written for a public audience, not for a grant application."
+  - "I'd be comfortable featuring this card on the homepage."
+
+  4 — Good (Clear with minor imperfections)
+
+  - "The overall message comes through clearly, though one element could be sharper."
+  - "The title works on its own, and the description fills in useful detail."
+  - "A visitor would understand what this project does without much effort."
+  - "There's a bit of jargon, but it doesn't block comprehension."
+  - "Publishable as-is — not perfect, but perfectly functional."
+
+  3 — Just readable (Understandable with effort)
+
+  - "I can figure out what this is about, but I have to piece it together."
+  - "The title is vague — I need the description to make sense of it."
+  - "The description has content, but it's buried under formal language or generic phrasing."
+  - "A specialist in the field would get it; a general visitor would struggle."
+  - "It does the job, but it doesn't invite reading."
+
+  2 — Difficult (Unclear without context)
+
+  - "I'm not confident I understand what this project actually does."
+  - "The title could apply to dozens of different projects — it tells me nothing specific."
+  - "The description reads like an internal memo, not a public summary."
+  - "Too much jargon, too many acronyms, not enough plain language."
+  - "If a journalist asked me 'what is this project about?', I'd have to guess."
+
+  1 — Cryptic (Impenetrable)
+
+  - "I genuinely cannot tell what this project does from this card."
+  - "The title is a meaningless slogan or a string of acronyms."
+  - "The description is either empty filler, administrative boilerplate, or truncated into incoherence."
+  - "This card fails its basic purpose — a visitor learns nothing from it."
+  - "I would flag this for a complete rewrite before it goes live."
