@@ -1,0 +1,9 @@
+  Les phrases font le boulot de calibration. Au lieu de dire au LLM "évalue la lisibilité de 1 à 5" (ce qui dérive à mort d'un run à l'autre), on lui donne des
+   ancres éditoriales concrètes. Le modèle doit se demander : "Est-ce que je serais à l'aise de mettre cette card en homepage ?" (→ 5) ou "Est-ce qu'un
+  journaliste pourrait me demander de quoi parle ce projet et je saurais pas répondre ?" (→ 2). C'est des questions fermées déguisées en jugements éditoriaux.
+
+  Le vocabulaire est opérationnel, pas abstrait. "Publishable as-is", "flag for rewrite", "feature on homepage" — c'est des décisions concrètes d'un web
+  editor, pas des notes sur une échelle floue. Ça réduit l'espace d'interprétation du LLM.
+
+  Les catégories sont contrastives. Le passage de 3 à 2 se joue sur : "je peux reconstituer le sens" vs "je suis pas sûr de comprendre". C'est une frontière
+  nette, pas un gradient vague.
